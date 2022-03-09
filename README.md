@@ -14,6 +14,9 @@
 #### Import the ytdl-core module by doing **npm install ydtl-core@latest**
 
 
+*you can also run this on other sites that support npm and nodejs*
+
+
 [0]: https://img.shields.io/badge/stability-experimental-orange.svg?style=flat-square
 [1]: https://nodejs.org/api/documentation.html#documentation_stability_index
 [2]: https://img.shields.io/npm/v/github-standard-labels.svg?style=flat-square

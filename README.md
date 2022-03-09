@@ -8,6 +8,7 @@
 # Basic Usage:
 > Go to [Repl.it](https://replit.com)<br>
 > Fork the [Repo](https://github.com/jun-ro/Youtube-Downloader.git) <br>
+> Change the url in [config.json](config.json) to the desired youtube url
 
 ![Preview](Images/Capture.PNG)
 

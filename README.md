@@ -1,6 +1,6 @@
-# Youtube-Downloader [![stability][0]][1]
+# Youtube-Downloader
 [![npm version][2]][3] [![build status][4]][5]
-[![downloads][8]][9] [![js-standard-style][10]][11]
+[![js-standard-style][10]][11]
 
 #### Just a basic script using ytdl-core, and node.js
 

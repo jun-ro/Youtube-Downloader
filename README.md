@@ -9,6 +9,8 @@
 > Go to [Repl.it](https://replit.com)<br>
 > Fork the [Repo](https://github.com/jun-ro/Youtube-Downloader.git) <br>
 
+![Preview](images/Capture.png)
+
 #### Import the ytdl-core module by doing **npm install ydtl-core@latest**
 
 

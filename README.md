@@ -4,5 +4,5 @@
 
 # Basic Usage:
 > Go to [Repl.it](https://replit.com)<br>
-> Fork the [Repo](https://github.com/jun-ro/Youtube-Downloader.git)
+> Fork the [Repo](https://github.com/jun-ro/Youtube-Downloader.git) <br>
 > Import the ytdl-core module by doing **npm install ydtl-core@latest**
